@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abjeet2
 - 👀 I’m interested in Software development and data science
-- 🌱 I’m currently learning python, SQL, PHP, and AWS
+- 🌱 I’m currently learning python, SQL, Spark and Beam
 - 💞️ I’m looking to collaborate on Data science projects! 
 - 📫 How to reach me - Email - abjeet.singh09@gmail.com
 
